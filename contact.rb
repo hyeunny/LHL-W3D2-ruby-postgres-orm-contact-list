@@ -1,3 +1,4 @@
+#test
 require 'pg'
 require 'pry'
 class Contact
