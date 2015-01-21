@@ -7,4 +7,4 @@ CREATE TABLE contacts (
 );
 
 INSERT INTO contacts (firstname, lastname, email, phone)
-VALUES ('DJ', 'Kim', 'dj@dev.ca', '1231231234');
+VALUES ('HJ', 'Lee', 'brohan@dev.ca', '1231231234');
